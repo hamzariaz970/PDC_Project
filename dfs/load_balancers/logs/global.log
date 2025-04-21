@@ -1,0 +1,5 @@
+[GLOBAL] [2025-04-22 01:30:08] Clusters configured: ['cluster_1', 'cluster_2']
+[GLOBAL] [2025-04-22 01:30:16] Cluster selected: cluster_1 with 281003.14 MB free
+[GLOBAL] [2025-04-22 01:30:16] Forwarded sample2.pdf_chunk00000 to cluster_1
+[GLOBAL] [2025-04-22 01:30:16] Cluster selected: cluster_1 with 281003.14 MB free
+[GLOBAL] [2025-04-22 01:30:16] Forwarded sample2.pdf_chunk00001 to cluster_1

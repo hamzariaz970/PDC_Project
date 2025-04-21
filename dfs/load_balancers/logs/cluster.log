@@ -1,0 +1,4 @@
+[CLUSTER] [2025-04-22 01:30:16] [SELECTED NODE] http://localhost:5002 → Score: 140351.57 | Free: 140501.57 MB | Chunks: 3
+[CLUSTER] [2025-04-22 01:30:16] Forwarded sample2.pdf_chunk00000 to http://localhost:5002
+[CLUSTER] [2025-04-22 01:30:16] [SELECTED NODE] http://localhost:5001 → Score: 140351.57 | Free: 140501.57 MB | Chunks: 3
+[CLUSTER] [2025-04-22 01:30:16] Forwarded sample2.pdf_chunk00001 to http://localhost:5001
